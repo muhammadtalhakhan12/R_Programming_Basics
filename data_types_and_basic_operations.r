@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #=================Objects and Numbers============================== 
 a=5
 class(a) #To check class, this shows "numeric"
@@ -71,6 +70,4 @@ class(y) #return Character, when compiler change data type automatically this pr
 
 
 
-=======
-#Objects and Numbers 
->>>>>>> 4a2afb84213d6c6c9f88dd38256e312564c468e1
+
