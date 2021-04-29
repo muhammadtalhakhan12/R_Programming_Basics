@@ -65,7 +65,7 @@ y <- c(TRUE,4)
 class(y) #return numeric
 
 y <- c("c",TRUE)
-class(y) #return Character, when compiler change data type autometically this process called Corecion
+class(y) #return Character, when compiler change data type automatically this process called Corecion
 
 
 
