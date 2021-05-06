@@ -91,3 +91,13 @@ x <- list(a=1:5, b="ID", c="First Name","Last Name")
 x
 
 x$a
+
+### working with matrix ###
+
+m <- matrix(1:4, nrow = 2, ncol = 2)
+m
+dimnames(m) <- list(c("r1","r2"),c("c1","c2")) # it will place the name of columns and rows
+m
+
+###=============complete==========================================###
+
